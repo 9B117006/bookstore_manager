@@ -1,2 +1,2 @@
 # bookstore_manager
- 期中考作業
+ 書店銷售管理程式
